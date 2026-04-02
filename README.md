@@ -38,7 +38,7 @@ Donut chart displaying distribution across categories: Clothing Electronics Furn
 # 6. Profit by Sub-Category
 Horizontal bar chart showing profit contribution by sub-categories: Printers Bookcases Sarees Accessories Tables Enables granular analysis of product profitability. 🎛️ Filters & Interactivity Quarter Filter (Q1–Q4): Allows users to analyze performance for specific quarters. State Filter: Enables region-specific insights. Interactive visuals allow users to drill down and explore data dynamically.
 
-SALES-DASHBOARD :-<a C://Users//Dell//Pictures//Screenshots//Dashboard-image"></a>
+SALES-DASHBOARD :-<a href="file:///C:/Users/Dell/Pictures/Screenshots/Dashboard-image.png"></a>
 
 # Key Insights
 Certain months show negative profit, indicating potential cost or pricing issues. COD is the most preferred payment method. Clothing is the highest-selling category by quantity. A small group of customers contributes significantly to revenue. Some sub-categories drive the majority of profit.
